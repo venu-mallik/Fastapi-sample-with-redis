@@ -1,4 +1,4 @@
-# Vetty-task-api
+# Fastapi sample
 
 This project is developed with python 3.10.2 on mac.
 
